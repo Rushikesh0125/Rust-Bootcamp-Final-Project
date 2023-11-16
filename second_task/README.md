@@ -12,14 +12,14 @@
     - Print the result to the console.
     - Compile and run the program to ensure it works as expected.
 
-## Checklist
+## Checklist :white_check_mark:
 
-    - Define the Operation enum with the appropriate variants and values. :white_check_mark:
-    - Write the calculate function signature. :white_check_mark:
-    - Implement the calculate function using pattern matching to perform the appropriate arithmetic operation. :white_check_mark:
-    - Prompt the user to input the first number, operation, and second number. :white_check_mark:
-    - Parse the user input into appropriate variables. :white_check_mark:
-    - Create an Operation enum instance with the parsed input values. :white_check_mark:
-    - Call the calculate function with the created Operation enum instance. :white_check_mark:
-    - Print the result to the console. :white_check_mark:
-    - Compile and run the program to test its functionality. :white_check_mark:
+    - Define the Operation enum with the appropriate variants and values. 
+    - Write the calculate function signature.
+    - Implement the calculate function using pattern matching to perform the appropriate arithmetic operation. 
+    - Prompt the user to input the first number, operation, and second number. 
+    - Parse the user input into appropriate variables. 
+    - Create an Operation enum instance with the parsed input values.
+    - Call the calculate function with the created Operation enum instance.
+    - Print the result to the console.
+    - Compile and run the program to test its functionality.
